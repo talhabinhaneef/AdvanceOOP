@@ -21,7 +21,10 @@ jobs:
 
       - name: Setup NuGet
         uses: NuGet/setup-nuget@v1.0.5
-
+      
+      - name: Change direcotry
+        run: cd LodhranUniversity
+        
       - name: Restore NuGet packages
         run: nuget restore
 
