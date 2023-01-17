@@ -1,3 +1,5 @@
+[![BZU](https://bzu.edu.pk/images/logo1.png)](https://www.bzu.edu.pk)
+
 # AdvanceOOP
  For students to understand AdvanceOOP in C#
 
@@ -8,8 +10,6 @@
 **ASP.NET Core Tutorials**
 * [MVC](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-6.0&tabs=visual-studio)
 * [MVC - Entity Framework](https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/?view=aspnetcore-6.0)
-* [Razor Pages](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/?view=aspnetcore-6.0)
-* [Razor Pages - Entity Framework](https://docs.microsoft.com/en-us/aspnet/core/data/ef-rp/intro?view=aspnetcore-6.0&tabs=visual-studio)
 
 **Design Patterns**
 - [Design Patterns](https://www.dofactory.com/net/design-patterns)
@@ -22,6 +22,9 @@
 - [SOLID Design Principles Explained - C#](https://www.dotnettricks.com/learn/designpatterns/solid-design-principles-explained-using-csharp)
 - [The SOLID Principles of Object-Oriented Programming Explained in Plain English](https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/)
 
+**LINQ**
+- [LINQ Tutorial](https://www.tutorialspoint.com/linq/index.htm)
+
 **Domain Driven Design**
 - [Onion Architecture In ASP.NET Core With CQRS – Detailed](https://codewithmukesh.com/blog/onion-architecture-in-aspnet-core/)
 - [Onion Architecture In ASP.NET Core MVC](https://www.c-sharpcorner.com/article/onion-architecture-in-asp-net-core-mvc/)
@@ -30,3 +33,9 @@
 - [Microservice Architecture in ASP.NET Core with API Gateway](https://codewithmukesh.com/blog/microservice-architecture-in-aspnet-core/)
 - [Microservices using ASP.NET Core](https://www.c-sharpcorner.com/article/microservice-using-asp-net-core/)
 - [Event-Driven ASP.NET Core Microservice Architecture](https://itnext.io/how-to-build-an-event-driven-asp-net-core-microservice-architecture-e0ef2976f33f)
+
+## Web API
+- Database Design, Project Domain Model Classes
+- Entity Framework - Code First https://www.entityframeworktutorial.net/code-first/what-is-code-first.aspx
+- ASPNET Core Web API https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-6.0&tabs=visual-studio
+- Generating QR Code https://www.freecodecamp.org/news/how-to-easily-implement-qrcoder-in-asp-net-core-using-c-10c4aa857e84/ ZXing NET https://www.yogihosting.com/aspnet-core-zxing-net/
