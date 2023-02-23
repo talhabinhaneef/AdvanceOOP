@@ -3,6 +3,10 @@
 # AdvanceOOP
  For students to understand AdvanceOOP in C#
 
+**Revision**
+* [Inheritance](https://github.com/qadir0108/VisualProgramming/blob/main/12_-_Inheritance.pdf) - [Example Project](https://github.com/qadir0108/VisualProgramming/tree/main/20220612_Inheritance)
+* [Interfaces](https://github.com/qadir0108/VisualProgramming/blob/main/13_-_Interfaces.pdf) - [Example Project](https://github.com/qadir0108/VisualProgramming/tree/main/20220613_Interfaces)
+
 **ASP.NET Core Tutorials**
 * [ASP.NET Core MVC](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-6.0&tabs=visual-studio)
 * [ASP.NET Core MVC - Entity Framework](https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/?view=aspnetcore-6.0)
@@ -12,7 +16,7 @@
 * Lodhran University & Lodhran E-Commerce Store are old projects with ASP.NET (.NET Framework - Design First Approach)
 
 **Design Patterns**
-- [Design Patterns](https://www.dofactory.com/net/design-patterns)
+* [Design Patterns](https://www.dofactory.com/net/design-patterns)
 * [Singleton Design Pattern - Creational](https://www.dofactory.com/net/singleton-design-pattern)
 * [Facade Design Pattern - Structural](https://www.dofactory.com/net/facade-design-pattern)
 * [Observer Design Pattern - Behavioral](https://www.dofactory.com/net/observer-design-pattern)
@@ -30,6 +34,7 @@
 - [Microservice Architecture in ASP.NET Core with API Gateway](https://codewithmukesh.com/blog/microservice-architecture-in-aspnet-core/)
 - [Microservices using ASP.NET Core](https://www.c-sharpcorner.com/article/microservice-using-asp-net-core/)
 - [Event-Driven ASP.NET Core Microservice Architecture](https://itnext.io/how-to-build-an-event-driven-asp-net-core-microservice-architecture-e0ef2976f33f)
+- [Microservice Series - From Zero to Hero](https://www.programmingwithwolfgang.com/microservice-series-from-zero-to-hero)
 
-## Bonus
+### Extras
 - Generating QR Code https://www.freecodecamp.org/news/how-to-easily-implement-qrcoder-in-asp-net-core-using-c-10c4aa857e84/ ZXing NET https://www.yogihosting.com/aspnet-core-zxing-net/
