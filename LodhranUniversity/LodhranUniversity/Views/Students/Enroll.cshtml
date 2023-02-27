@@ -56,13 +56,13 @@
     }
         <div class="form-group">
             <div class="col-md-offset-11 col-md-1">
-                <input type="submit" value="Save" class="btn btn-default" />
+                <input type="submit" value="Save" class="btn btn-success" />
             </div>
         </div>
     </div>
 }
 <div>
-    @Html.ActionLink("Back to List", "Index")
+    @Html.ActionLink("Back to List", "Index",null, new { @class = "btn btn-danger btn-large" })
 </div>
 
 @section Scripts {
